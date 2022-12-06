@@ -1,5 +1,5 @@
 1. In backend create venv and install dependencies from requirements.txt.
-2. Activate venv and run 'python main.py'. This should spin FastAPI on http://0.0.0.0:8000 (http://0.0.0.0:8000/docs should open swagger doc)
+2. Activate venv and run 'python main.py'. This should spin FastAPI on http://localhost:8000 (http://localhost:8000/docs should open swagger doc)
 3. In frontend open another terminal and instal dependencies 'npm install'
 4. Run 'npm run start'. This should start React App in default browser.
 
